@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndreyCh1989%2Fdjango-project.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAndreyCh1989%2Fdjango-project?ref=badge_shield)
+
 =====================
 django-public-project
 =====================
@@ -23,3 +25,7 @@ There is a Google Group you can use for asking questions or giving suggestions:
 Feel free to get in touch on Twitter or follow for updates on new releases:
 
 * https://twitter.com/DjPublicProject
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndreyCh1989%2Fdjango-project.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAndreyCh1989%2Fdjango-project?ref=badge_large)
