@@ -1,0 +1,4 @@
+Sphinx>=1.3
+selenium>=2.45
+django-dynamic-fixture>=1.8
+ipython
